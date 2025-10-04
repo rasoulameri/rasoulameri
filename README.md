@@ -30,7 +30,7 @@ Main profile page structure with categorized project tables
 ## 🧩 About Me
 
 - 🔬 Researching **AI for Healthcare**, **Explainable Multimodal AI**, and **Time-Series Forecasting**
-- ⚙️ Experienced in **Deep Learning**, **Transformer Architectures**, **Reinforcement Learning**, and **Graph Neural Networks**
+- ⚙️ Experienced in **Deep Learning**, **Transformer Architectures**, and **Reinforcement Learning**.
 - 💡 Passionate about bridging research and practical applications in **Computer Vision** and **Data-Driven Systems**
 - 🌍 Based in Taiwan | 🌱 Constantly exploring **PyTorch**, **Vision Transformers**, and **MLOps**
 - 📫 Reach me via: [rasoulameri.github.io/](https://rasoulameri.github.io/)
