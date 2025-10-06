@@ -93,11 +93,12 @@ Main profile page structure with categorized project tables
 ---
 
 # 🧠 Deep Learning Projects
-<!--
+
 | Name | Description | Repository |
 |------|--------------|-------------|
-| **Project 1** | Description of the project goes here. | [Repo Link](#) |
-| **Project 2** | Description of the project goes here. | [Repo Link](#) |
+| **Repository_1** | A complete, straightforward digit classification project built with PyTorch, featuring CNN-based training, evaluation metrics, confusion matrix visualization, and XAI using Grad-CAM. | [Repo Link](https://github.com/rasoulameri/Digits_Classification_XAI) |
+
+<!--| **Project 2** | Description of the project goes here. | [Repo Link](#) |
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
 | **Project 4** | Description of the project goes here. | [Repo Link](#) |
 | **Project 5** | Description of the project goes here. | [Repo Link](#) |
