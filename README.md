@@ -78,13 +78,14 @@ Main profile page structure with categorized project tables
 </p>
 
 ---
+# 🧮 Machine Learning
 
-# 🧮 Machine Learning Projects
-<!--
 | Name | Description | Repository |
-|------|--------------|-------------|
-| **Project 1** | Description of the project goes here. | [Repo Link](#) |
-| **Project 2** | Description of the project goes here. | [Repo Link](#) |
+|------|--------------------|-------------|
+| **Repository_1** |AI Programming and XAI Using Python. This repository covers environment setup, Python fundamentals, data cleaning, model training, and explainable AI using SHAP for KNN and other models. | [Repo Link](https://github.com/rasoulameri/Machine_Learning) |
+
+<!--
+| **Project 2** |  | [Repo Link](#) |
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
 | **Project 4** | Description of the project goes here. | [Repo Link](#) |
 | **Project 5** | Description of the project goes here. | [Repo Link](#) |
