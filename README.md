@@ -106,10 +106,11 @@ Main profile page structure with categorized project tables
 ---
 
 # 👁️ Computer Vision Projects
-<!--
+
 | Name | Description | Repository |
 |------|--------------|-------------|
-| **Project 1** | Description of the project goes here. | [Repo Link](#) |
+| **CV_1** | A deep learning-based medical image segmentation framework that detects the ETT and Carina from chest X-rays for accurate, automated airway localization. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
+<!--
 | **Project 2** | Description of the project goes here. | [Repo Link](#) |
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
 | **Project 4** | Description of the project goes here. | [Repo Link](#) |
