@@ -82,7 +82,7 @@ Main profile page structure with categorized project tables
 
 | Name | Description | Repository |
 |------|--------------------|-------------|
-| **Repository_1** |AI Programming and XAI Using Python. This repository covers environment setup, Python fundamentals, data cleaning, model training, and explainable AI using SHAP for KNN and other models. | [Repo Link](https://github.com/rasoulameri/Machine_Learning) |
+| **ML_1** |AI Programming and XAI Using Python. This repository covers environment setup, Python fundamentals, data cleaning, model training, and explainable AI using SHAP for KNN and other models. | [Repo Link](https://github.com/rasoulameri/Machine_Learning) |
 
 <!--
 | **Project 2** |  | [Repo Link](#) |
@@ -96,7 +96,7 @@ Main profile page structure with categorized project tables
 
 | Name | Description | Repository |
 |------|--------------|-------------|
-| **Repository_1** | A complete, straightforward digit classification project built with PyTorch, featuring CNN-based training, evaluation metrics, confusion matrix visualization, and XAI using Grad-CAM. | [Repo Link](https://github.com/rasoulameri/Digits_Classification_XAI) |
+| **DL_1** | A complete, straightforward digit classification project built with PyTorch, featuring CNN-based training, evaluation metrics, confusion matrix visualization, and XAI using Grad-CAM. | [Repo Link](https://github.com/rasoulameri/Digits_Classification_XAI) |
 
 <!--| **Project 2** | Description of the project goes here. | [Repo Link](#) |
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
