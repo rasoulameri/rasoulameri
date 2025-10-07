@@ -109,7 +109,7 @@ Main profile page structure with categorized project tables
 
 | Name | Description | Repository |
 |------|--------------|-------------|
-| **CV_1** |Implements a UNet++-based medical image segmentation framework for precise detection of the carina and endotracheal tube tip, supporting automated clinical evaluation of airway placement. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
+| **CV_1** |Implements a UNet-based medical image segmentation framework for precise detection of the carina and endotracheal tube tip, supporting automated clinical evaluation of airway placement. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
 <!--
 | **Project 2** | Description of the project goes here. | [Repo Link](#) |
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
