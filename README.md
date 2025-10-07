@@ -119,10 +119,10 @@ Main profile page structure with categorized project tables
 ---
 
 # ⏳ Time Series Forecasting Projects
-<!--
 | Name | Description | Repository |
 |------|--------------|-------------|
-| **Project 1** | Description of the project goes here. | [Repo Link](#) |
+| **TSF_1** | A hybrid machine learning framework for river discharge forecasting that combines ensemble regression models with the Arithmetic Optimization Algorithm (AOA) for hyperparameter tuning and next-day flow prediction. | [Repo Link](https://github.com/rasoulameri/River_Discharge_Regression) |
+<!--
 | **Project 2** | Description of the project goes here. | [Repo Link](#) |
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
 | **Project 4** | Description of the project goes here. | [Repo Link](#) |
