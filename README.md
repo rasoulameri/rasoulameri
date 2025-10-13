@@ -130,7 +130,7 @@ Main profile page structure with categorized project tables
 -->
 ---
 
-# 🎧 Signal Processing Projects
+# 〰️ Signal Processing Projects
 <!--
 | Name | Description | Repository |
 |------|--------------|-------------|
