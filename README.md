@@ -118,7 +118,7 @@ Main profile page structure with categorized project tables
 -->
 ---
 
-# ⏳ Time Series Forecasting Projects
+# 📈 Time Series Forecasting Projects
 | Name | Description | Repository |
 |------|--------------|-------------|
 | **TSF_1** | A hybrid machine learning framework for river discharge forecasting that combines ensemble regression models with the Arithmetic Optimization Algorithm (AOA) for hyperparameter tuning and next-day flow prediction. | [Repo Link](https://github.com/rasoulameri/River_Discharge_Regression) |
