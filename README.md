@@ -77,7 +77,7 @@ Main profile page structure with categorized project tables
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="55" alt="Slack"/>
 </p>
 ---
-# 👁️ Computer Vision Projects
+# 👁️ **Computer Vision Projects**
 
 | Name | Description | Repository |
 |------|--------------|-------------|
@@ -88,6 +88,7 @@ Main profile page structure with categorized project tables
 | **Project 4** | Description of the project goes here. | [Repo Link](#) |
 | **Project 5** | Description of the project goes here. | [Repo Link](#) |
 -->
+
 ---
 # 🧮 Machine Learning
 
