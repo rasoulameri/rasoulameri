@@ -76,7 +76,18 @@ Main profile page structure with categorized project tables
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="55" alt="Slack"/>
 </p>
+---
+# 👁️ Computer Vision Projects
 
+| Name | Description | Repository |
+|------|--------------|-------------|
+| **CV_1** |Implements a UNet-based medical image segmentation framework for precise detection of the carina and endotracheal tube tip, supporting automated clinical evaluation of airway placement. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
+| **CV_2** | A hybrid CNN–Transformer framework for precise industrial surface defect detection and segmentation, integrating Vision Transformer (ViT) with convolutional modules to effectively capture both local texture details and global contextual features. | [Repo Link](https://github.com/rasoulameri/Defect_Segmentation) |
+<!--
+| **Project 3** | Description of the project goes here. | [Repo Link](#) |
+| **Project 4** | Description of the project goes here. | [Repo Link](#) |
+| **Project 5** | Description of the project goes here. | [Repo Link](#) |
+-->
 ---
 # 🧮 Machine Learning
 
@@ -99,19 +110,6 @@ Main profile page structure with categorized project tables
 | **DL_1** | A complete, straightforward digit classification project built with PyTorch, featuring CNN-based training, evaluation metrics, confusion matrix visualization, and XAI using Grad-CAM. | [Repo Link](https://github.com/rasoulameri/Digits_Classification_XAI) |
 
 <!--| **Project 2** | Description of the project goes here. | [Repo Link](#) |
-| **Project 3** | Description of the project goes here. | [Repo Link](#) |
-| **Project 4** | Description of the project goes here. | [Repo Link](#) |
-| **Project 5** | Description of the project goes here. | [Repo Link](#) |
--->
----
-
-# 👁️ Computer Vision Projects
-
-| Name | Description | Repository |
-|------|--------------|-------------|
-| **CV_1** |Implements a UNet-based medical image segmentation framework for precise detection of the carina and endotracheal tube tip, supporting automated clinical evaluation of airway placement. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
-| **CV_2** | A hybrid CNN–Transformer framework for precise industrial surface defect detection and segmentation, integrating Vision Transformer (ViT) with convolutional modules to effectively capture both local texture details and global contextual features. | [Repo Link](https://github.com/rasoulameri/Defect_Segmentation) |
-<!--
 | **Project 3** | Description of the project goes here. | [Repo Link](#) |
 | **Project 4** | Description of the project goes here. | [Repo Link](#) |
 | **Project 5** | Description of the project goes here. | [Repo Link](#) |
