@@ -1,18 +1,3 @@
-<!--## Hi there 👋
-
-**rasoulameri/rasoulameri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 🌟 GitHub Profile README for Rasoul Ameri
 Main profile page structure with categorized project tables
@@ -76,77 +61,52 @@ Main profile page structure with categorized project tables
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="55" alt="Slack"/>
 </p>
+
 ---
-# 👁️ **Computer Vision Projects**
+
+# 👁️ Computer Vision Projects
 
 | Name | Description | Repository |
-|------|--------------|-------------|
-| **CV_1** |Implements a UNet-based medical image segmentation framework for precise detection of the carina and endotracheal tube tip, supporting automated clinical evaluation of airway placement. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
-| **CV_2** | A hybrid CNN–Transformer framework for precise industrial surface defect detection and segmentation, integrating Vision Transformer (ViT) with convolutional modules to effectively capture both local texture details and global contextual features. | [Repo Link](https://github.com/rasoulameri/Defect_Segmentation) |
-<!--
-| **Project 3** | Description of the project goes here. | [Repo Link](#) |
-| **Project 4** | Description of the project goes here. | [Repo Link](#) |
-| **Project 5** | Description of the project goes here. | [Repo Link](#) |
--->
+|------|-------------|------------|
+| **CV_1** | UNet-based segmentation for detecting carina and ETT tip placement in medical images. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
+| **CV_2** | Hybrid CNN–Transformer (ViT) framework for industrial surface defect detection and segmentation. | [Repo Link](https://github.com/rasoulameri/Defect_Segmentation) |
 
 ---
+
 # 🧮 Machine Learning
 
 | Name | Description | Repository |
-|------|--------------------|-------------|
-| **ML_1** |AI Programming and XAI Using Python. This repository covers environment setup, Python fundamentals, data cleaning, model training, and explainable AI using SHAP for KNN and other models. | [Repo Link](https://github.com/rasoulameri/Machine_Learning) |
+|------|-------------|------------|
+| **ML_1** | AI programming and XAI with Python: data cleaning, model training, and SHAP-based explainability. | [Repo Link](https://github.com/rasoulameri/Machine_Learning) |
 
-<!--
-| **Project 2** |  | [Repo Link](#) |
-| **Project 3** | Description of the project goes here. | [Repo Link](#) |
-| **Project 4** | Description of the project goes here. | [Repo Link](#) |
-| **Project 5** | Description of the project goes here. | [Repo Link](#) |
--->
 ---
 
 # 🧠 Deep Learning Projects
 
 | Name | Description | Repository |
-|------|--------------|-------------|
-| **DL_1** | A complete, straightforward digit classification project built with PyTorch, featuring CNN-based training, evaluation metrics, confusion matrix visualization, and XAI using Grad-CAM. | [Repo Link](https://github.com/rasoulameri/Digits_Classification_XAI) |
+|------|-------------|------------|
+| **DL_1** | CNN-based digit classification in PyTorch with Grad-CAM XAI and confusion matrix visualization. | [Repo Link](https://github.com/rasoulameri/Digits_Classification_XAI) |
 
-<!--| **Project 2** | Description of the project goes here. | [Repo Link](#) |
-| **Project 3** | Description of the project goes here. | [Repo Link](#) |
-| **Project 4** | Description of the project goes here. | [Repo Link](#) |
-| **Project 5** | Description of the project goes here. | [Repo Link](#) |
--->
 ---
 
 # 📈 Time Series Forecasting Projects
+
 | Name | Description | Repository |
-|------|--------------|-------------|
-| **TSF_1** | A hybrid machine learning framework for river discharge forecasting that combines ensemble regression models with the Arithmetic Optimization Algorithm (AOA) for hyperparameter tuning and next-day flow prediction. | [Repo Link](https://github.com/rasoulameri/River_Discharge_Regression) |
-<!--
-| **Project 2** | Description of the project goes here. | [Repo Link](#) |
-| **Project 3** | Description of the project goes here. | [Repo Link](#) |
-| **Project 4** | Description of the project goes here. | [Repo Link](#) |
-| **Project 5** | Description of the project goes here. | [Repo Link](#) |
--->
+|------|-------------|------------|
+| **TSF_1** | Hybrid ML framework for river discharge forecasting using ensemble models and AOA hyperparameter tuning. | [Repo Link](https://github.com/rasoulameri/River_Discharge_Regression) |
+
 ---
 
 # 〰️ Signal Processing Projects
-<!--
-| Name | Description | Repository |
-|------|--------------|-------------|
-| **Project 1** | Description of the project goes here. | [Repo Link](#) |
-| **Project 2** | Description of the project goes here. | [Repo Link](#) |
-| **Project 3** | Description of the project goes here. | [Repo Link](#) |
-| **Project 4** | Description of the project goes here. | [Repo Link](#) |
-| **Project 5** | Description of the project goes here. | [Repo Link](#) |
--->
+
+*Coming soon...*
+
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasoulameri&show_icons=true&theme=radical" height="200" />
-  &nbsp;&nbsp;
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoulameri&layout=compact&theme=radical" height="150" />-->
 </p>
 
 ---
