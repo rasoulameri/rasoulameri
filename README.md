@@ -68,9 +68,9 @@ Main profile page structure with categorized project tables
 
 | Name | Description | Repository |
 |------|-------------|------------|
-| **CV_1** | UNet-based segmentation for detecting carina and ETT tip placement in medical images. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
-| **CV_2** | Hybrid CNN–Transformer (ViT) framework for industrial surface defect detection and segmentation. | [Repo Link](https://github.com/rasoulameri/Defect_Segmentation) |
-| **CV_3** | SegAgent-AI: A Dockerized AI Platform for Industrial Defect Segmentation, Severity Analysis, and Cloud Deployment | [Repo Link](https://github.com/rasoulameri/SegAgent-AI) |
+| **CV_1** | SegAgent-AI: A Dockerized AI Platform for Industrial Defect Segmentation, Severity Analysis, and Cloud Deployment | [Repo Link](https://github.com/rasoulameri/SegAgent-AI) |
+| **CV_2** | UNet-based segmentation for detecting carina and ETT tip placement in medical images. | [Repo Link](https://github.com/rasoulameri/ETT_Carina_Segmentation) |
+| **CV_3** | Hybrid CNN–Transformer (ViT) framework for industrial surface defect detection and segmentation. | [Repo Link](https://github.com/rasoulameri/Defect_Segmentation) |
 
 ---
 
